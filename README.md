@@ -1,0 +1,1 @@
+# terraform-azurer7m-securestorage
